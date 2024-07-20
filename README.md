@@ -1,6 +1,3 @@
-Sure, here's a sample README template for your C programming repository:
-
----
 
 # C Programming Repository
 
